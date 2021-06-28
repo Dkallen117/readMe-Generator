@@ -9,7 +9,7 @@ const questions = [
 {
 
     type: "input",
-    name:"username",
+    name:"userName",
     message: "Please enter your GitHub Username",
     default: "GitHub User"
 
@@ -80,6 +80,15 @@ const questions = [
 },
 
 {
+
+    type: "input",
+    name: "contact",
+    message: "Please enter an email so that users may contact you",
+    default: "email@123.com"
+
+},
+
+{
     type: "list",
     name: "license",
     message: "License:",
@@ -143,7 +152,7 @@ be generated for you!
 
 		writeToFile("sample-README.md", readme);
 		console.log(`
-        Success! A README.md file was created.`);
+        Your professional README file has been successfully generated!`);
 	} catch (err) {
 		console.log(`Error: ${err}`);
 	}
