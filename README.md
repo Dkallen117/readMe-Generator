@@ -2,16 +2,17 @@
 
 ## Description 
 
+Having  This assignment helped me to better understand how data is grabbed from whatever source and rendered on the page and how it can then update dynamically (searching for another city). For the basic design, I added a current forecast section and a 5-day upcoming forecast section. This, in turn, will provide the user enough data to help plan their daily outings around the weather.
 
 
 ## Table of Contents 📖
 
-- [Features & Technologies](#features--technologies-sparkles)
-- [Installation](#installation-hammer_and_wrench)
+- [Technologies Used](#technologies--used-desktop_computer)
+- [Installation](#installation-gear)
 - [Usage Demo](#usage-demo)
 - [License](#license-)
 
-## Technologies Used 🖥️
+## Technologies Used 🖥️ 
 
 | Technology  | Link                                   |
 | ----------- | -------------------------------------- |
