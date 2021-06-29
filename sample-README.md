@@ -1,10 +1,10 @@
 
   
   # Project Title
-  jfksdl
+  My Project
   
   # Description
-  jfklsd
+  My Description
   
   # Table of Contents 
   * [Installation](#Installation)
@@ -15,9 +15,9 @@
   * [Questions & Contact Information](#questions--contact-information)
       
   # Installation
-  hjfsdk
+  How to install:
   # Usage
-  hfjksd
+  How to operate:
   # License 
   
 
@@ -25,10 +25,10 @@
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   
   # Contributing 
-  hfjdsk
+  How to contribute:
   # Tests
-  hjfsd
+  Testing:
   # Questions & Contact Information 
-  * GitHub Username: [github.com/jfksdl](github.com/jfksdl)
+  * GitHub Username: [github.com/Github_Username](github.com/Github_Username)
   * Contact Email: sample@123.com
 
