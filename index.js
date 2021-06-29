@@ -24,14 +24,6 @@ const questions = [
 
 }, 
 
-{
-
-    type: "input",
-    name: "repository",
-    message: "Please enter the name of your GitHub Repository",
-    default: "My Repo"
-
-},
 
 {
 
