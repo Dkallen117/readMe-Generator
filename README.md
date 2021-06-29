@@ -2,7 +2,7 @@
 
 ## Description 
 
-Having  This assignment helped me to better understand how data is grabbed from whatever source and rendered on the page and how it can then update dynamically (searching for another city). For the basic design, I added a current forecast section and a 5-day upcoming forecast section. This, in turn, will provide the user enough data to help plan their daily outings around the weather.
+Having an easy to use README generator can be a vital necessity for any developer. This project allowed me to not only build a tool for myself and other users in the future, but I was able to gain more knowledge and experience using node.js and navigating and using command-line programs such as GitBash. This command-line application presents users with a series of questions that uses their inputs to easily generate a professional README file they can use for their project.
 
 
 ## Table of Contents 📖
