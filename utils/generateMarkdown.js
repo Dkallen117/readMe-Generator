@@ -70,7 +70,7 @@ function generateMarkdown(data) {
   * [License](#Installation)
   * [Contributing](#Contributing)
   * [Tests](#Tests)
-  * [Questions](#questions--contact-information)
+  * [Questions & Contact Information](#questions--contact-information)
       
   # Installation
   ${data.installation}
