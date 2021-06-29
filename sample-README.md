@@ -1,10 +1,10 @@
 
   
   # Project Title
-  My Project
+  fds
   
   # Description
-  This is my description
+  fds
   
   # Table of Contents 
   * [Installation](#Installation)
@@ -15,9 +15,9 @@
   * [Questions](#Questions--Contact-Information)
       
   # Installation
-  How to install...
+  fds
   # Usage
-  How to operate...
+  fds
   # License 
   
 
@@ -25,10 +25,10 @@
   [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   
   # Contributing 
-  How to contribute:
+  fds
   # Tests
-  Instructions for Use:
+  fds
   # Questions & Contact Information 
-  * GitHub Username: GitHub_Username
-  * Contact Email: My email is...
+  * GitHub Username: [github.com/fds](github.com/fds)
+  * Contact Email: sample@gmail.com
 
