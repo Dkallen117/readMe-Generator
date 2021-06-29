@@ -8,7 +8,7 @@ Having an easy to use README generator can be a vital necessity for any develope
 ## Table of Contents 📖
 
 - [Technologies Used](#technologies-used-desktop_computer)
-- [Installation](#installation-gear)
+- [Installation](#installation-%EF%B8%8F)
 - [Usage Demo](#usage-demo)
 - [License](#license-)
 
