@@ -30,6 +30,11 @@ Having an easy to use README generator can be a vital necessity for any develope
 
 ## Usage Demo
 
+- [Sample README](sample-README.md)
+
+![demo user input](example_Video/Video_Demo.gif)
+![demo user output](example_Video/Sample_README.gif)
+
 
 ## License ![GitHub](https://img.shields.io/github/license/smcheah/README-generator)
 
