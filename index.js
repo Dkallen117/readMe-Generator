@@ -85,7 +85,7 @@ const questions = [
     name: "license",
     message: "License:",
     choices: [
-        "Apache license 2.0",
+        "Apache License 2.0",
         "GNU General Public License v3.0",
         "MIT",
         "Boost Software License 1.0",
@@ -126,7 +126,7 @@ be generated for you!
 	try {
 		const responses = await inquirer.prompt(questions);
 		const readme = generateMarkdown(responses);
-
+        // console.log(readme);
 		writeToFile("sample-README.md", readme);
 		console.log(`
         Your professional README file has been successfully generated!`);
